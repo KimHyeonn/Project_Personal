@@ -1,4 +1,5 @@
-# Project_Personal
+# Project_Personal_News
+
 뉴스 토픽 분류 프로젝트
 
 데이콘 대회 참여용
